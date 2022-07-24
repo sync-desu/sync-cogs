@@ -1,0 +1,10 @@
+{
+    "author": "sync-desu (sync#6119)",
+    "contributors": ["sync-desu"],
+    "description": "Remove all non-ascii and non-alphanumerical characters from a member's nickname and potentially replace them with ascii and alphanumerical ones.",
+    "emoji": "😇",
+    "name": "Decancer",
+    "release_date": "24th July, 2022",
+    "short": "Decancer a member or multiple members at once.",
+    "version": "0.1.0",
+}
